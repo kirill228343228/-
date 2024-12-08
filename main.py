@@ -10,3 +10,7 @@ player3 = character(name="Volodia")
 player3.print_stats()
 
 player1.attack(player2)
+
+print("\n\n")
+player1.print_stats
+player2.print_sta
